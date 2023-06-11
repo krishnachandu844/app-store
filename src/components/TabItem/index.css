@@ -1,0 +1,12 @@
+/* Write your CSS here */
+
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+  border-bottom-width: 0.5px;
+  border-color: #dfe2e5;
+  color: #7b8794;
+  font-weight: 400;
+  font-size: 15px;
+  width: 80px;
+}
